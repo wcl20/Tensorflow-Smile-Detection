@@ -1,6 +1,6 @@
 # Tensorflow Smile Detection
 
-Detecting smile using Lenet.
+Detecting smile using Lenet on SMILES dataset.
 
 ## Setup
 Generate Virtual environment
